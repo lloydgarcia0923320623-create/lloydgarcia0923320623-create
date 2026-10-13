@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lloydgarcia0923320623-create/iskolarhub"><img src="https://img.shields.io/badge/FEATURED%20PROJECT-IskolarHub-10233F?style=for-the-badge&labelColor=10B981" alt="Featured project: IskolarHub"></a>
-  <img src="https://img.shields.io/badge/BUILT%20WITH-Flutter%20%2B%20Dart-10233F?style=for-the-badge&labelColor=6558D3" alt="Built with Flutter and Dart">
-  <img src="https://img.shields.io/badge/PLATFORMS-Android%20%7C%20iOS-10233F?style=for-the-badge&labelColor=138B91" alt="Android and iOS">
+  <a href="https://github.com/lloydgarcia0923320623-create/iskolarhub"><img src="https://img.shields.io/badge/FEATURED%20PROJECT-IskolarHub-080D1A?style=for-the-badge&labelColor=418CF5" alt="Featured project: IskolarHub"></a>
+  <img src="https://img.shields.io/badge/BUILT%20WITH-Flutter%20%2B%20Dart-080D1A?style=for-the-badge&labelColor=7770E8" alt="Built with Flutter and Dart">
+  <img src="https://img.shields.io/badge/PLATFORMS-Android%20%7C%20iOS-080D1A?style=for-the-badge&labelColor=168EB2" alt="Android and iOS">
 </p>
 
-<h1 align="center">Hi, I'm <code>@lloydgarcia0923320623-create</code>.</h1>
+<h1 align="center">Hi, I'm Lloyd Andrei Garcia.</h1>
 
 <p align="center">
-  I build mobile software that turns complicated journeys into clearer next steps.
+  I'm a Flutter developer building mobile software that turns complicated journeys into clearer next steps.
   <br>
   Right now, that idea is <strong>IskolarHub</strong> — a scholarship discovery and student-support app.
 </p>
